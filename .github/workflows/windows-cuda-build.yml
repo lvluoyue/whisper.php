@@ -4,7 +4,7 @@ on:
     inputs:
       version:
         description: 'Whisper.cpp tag, branch or commit to build'
-        default: v1.7.2
+        default: v1.8.2
 
   workflow_call:
 
